@@ -79,3 +79,5 @@ adminer
 phpmyadmin
 neo4j
 centos
+registry
+registry ui
