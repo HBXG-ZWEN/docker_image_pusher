@@ -280,7 +280,7 @@ jetty
 joomla
 jruby
 julia
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 kaazing-gateway
 kapacitor
 kimi360/homebox
@@ -392,4 +392,4 @@ xiaoyaliu/tfm
 xujinkai/aria2-with-webui
 xwiki
 znc
-Zookeeper
+zookeeper
